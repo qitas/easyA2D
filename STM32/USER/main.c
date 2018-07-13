@@ -22,7 +22,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f10x.h"
-#include "systick.h"
+//#include "systick.h"
 #include <stdio.h>
 
 #ifdef __GNUC__
