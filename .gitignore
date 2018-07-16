@@ -1,2 +1,8 @@
 
 /STM32/MDK/Obj/*
+
+/N76E003/obj/
+/N76E003/list/
+/N76E003/*.uvgui.*
+/N76E003/*.uvgui_*
+/N76E003/*.uvopt
