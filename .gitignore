@@ -6,3 +6,9 @@
 /N76E003/*.uvgui.*
 /N76E003/*.uvgui_*
 /N76E003/*.uvopt
+
+/CH552/obj/
+/CH552/list/
+/CH552/*.uvgui.*
+/CH552/*.uvgui_*
+/CH552/*.uvopt
