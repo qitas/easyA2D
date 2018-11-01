@@ -1,7 +1,12 @@
-## qitas.cn
+﻿# ADC
 
-#### for adc proj examples
+### 简介
 
-- 新增STM32相关工程
-- 新增N76E003相关工程
-- 新增CH552相关工程
+一些单片机的ADC工程模板，快速搭建可用工程代码
+
+
+---
+
+## 为锻造最美之器
+
+[![sites](qitas/qitas.png)](http://www.qitas.cn)
