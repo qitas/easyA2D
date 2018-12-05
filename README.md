@@ -1,12 +1,16 @@
-﻿# ADC
+﻿# [ADC](https://github.com/qitas/ADC) 
+
+包括常见通信器件的相关代码，作为嵌入式开发的接口文件
+
+### qitas@qitas.cn
 
 ### 简介
 
-一些单片机的ADC工程模板，快速搭建可用工程代码
+单片机ADC采样工程模板，用于快速搭建对应的工程代码
 
 
 ---
 
-## 为锻造最美之器
+## 锻造最美之器
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
